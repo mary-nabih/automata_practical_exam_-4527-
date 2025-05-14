@@ -1,0 +1,2 @@
+# No external libraries required
+# All scripts use built-in Python libraries only
